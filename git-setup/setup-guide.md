@@ -1,6 +1,6 @@
 # Git and GitHub Setup Guide
 
-This Jupyter notebook documents the process of setting up Git and GitHub for a programming course repository. We'll cover everything from initial configuration to creating a well-structured repository.
+This guide documents the process of setting up Git and GitHub for a programming course repository. We'll cover everything from initial configuration to creating a well-structured repository.
 
 ## 1. Initial Git Configuration
 
