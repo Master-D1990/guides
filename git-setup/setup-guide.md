@@ -399,3 +399,4 @@ The repository structure we've created follows educational best practices:
 - `projects/` stores larger, more complex assignments
 
 This structure helps maintain a clear separation of concerns and makes it easier to find specific materials when needed.
+Empty folder aren't keept in Git. To keep them they can bei initialised with a README or a gitkeep file.
